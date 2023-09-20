@@ -1,11 +1,6 @@
-[![MasterHead](https://i.giphy.com/media/7VzgMsB6FLCilwS30v/giphy-downsized-large.gif)](www.linkedin.com/in/ashwin-tomar1310)
 <h1 align="center">Hi 👋, I'm Ashwin Tomar</h1>
 <h3 align="center">I'm a passionate student at Chandigarh University, specializing in AI and Python development.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwintomar&label=Profile%20views&color=0e75b6&style=flat" alt="ashwintomar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwintomar" alt="ashwintomar" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
 - 🔭 I’m currently working on [DoNotBot (A Discord Bot)](https://github.com/Ashwintomar/DoNot_temp)
 
@@ -29,4 +24,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <
+<p align="left"> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+  </a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwintomar&label=Profile%20views&color=0e75b6&style=flat" alt="ashwintomar" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwintomar" alt="ashwintomar" /></a> </p>
