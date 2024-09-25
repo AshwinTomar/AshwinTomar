@@ -10,8 +10,6 @@
 
 - 🤝 Projects I have worked on [Machine Learning Repository](https://github.com/Ashwintomar/Machine_Learning)
 
-- ⚡Contact me at +91 8464999212
-
 - 📫 How to reach me **ashwintomar04@gmail.com**
 
 - 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1YmnTN3vxZerE3B1NTU3ia3GH0fykxoVM/view?usp=sharing)
